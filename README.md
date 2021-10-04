@@ -15,7 +15,8 @@
 2. CI/CD adalah metode delivery apps, dimana CI adalah dimana source code developer dilakukan build, unit test dan integrasi, CD adalah continuous delivery dan continuous deployment artinya code yang telah terintegrasi otomatis masuk ke repository dan deploy ke production environment.\
 ![02.jpg](images/02.jpg)
 
-3. ![03.jpg](images/04.jpg)(https://www.youtube.com/watch?v=fFUP9tv-oZI)
+3. Video rekaman bisa dilihat di folder _video-rekaman/03.mkv_ 
+   ![03.jpg](images/03.jpg)(https://www.youtube.com/watch?v=fFUP9tv-oZI)
 
 
 4. Grep singkatan dari Global Regular Expression Print, adalah command-line tool yang digunakan untuk mencari string dalam sebuah file, keyword yang cocok akan ditampilkan. Perintah grep berguna saat mencari string atau kata dalam sebuah log file.\
