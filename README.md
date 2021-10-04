@@ -28,4 +28,4 @@ Contoh:
     - test adalah lokasi foldernya
     - file1 adalah filenya yang akan dicari kata 'error' di dalamnya, hasilnya menampilkan semua yang mengandung kata error
 
-5. ![05-video.mkv](https://youtu.be/TW9N3elJ4ks)
+5. [![05-video](http://img.youtube.com/vi/TW9N3elJ4ks/1.jpg)](http://www.youtube.com/watch?v=TW9N3elJ4ks)
