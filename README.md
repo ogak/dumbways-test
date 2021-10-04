@@ -1,5 +1,5 @@
 # Test Technical Online Bootcamp DumbWays.id DEVOPS ENGINEER
-1. OS yang digunakan: Window 10
+1. OS yang digunakan: Windows 10
 2. Sumber artikel
    - https://www.redhat.com/en/topics/devops/what-is-ci-cd (no.2)
    - https://nasabahmedia.com/ci-cd/ (no.2)
