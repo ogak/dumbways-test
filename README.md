@@ -9,7 +9,7 @@
    - https://silicophilic.com/virtualbox-running-slow/ (no.5)
 
 
-**Jawaban soal test DevOps Engineer Dumbways**
+**Jawaban soal test technical DevOps Engineer Dumbways**
 1. DevOps adalah budaya kolaborasi antara developer dan operation yang melahirkan serangkaian praktik yang mempercepat proses development dan operasi secara otomatis, kontinyu dan terintegrasi.
 ![01.jpg](images/01.jpg)
 
