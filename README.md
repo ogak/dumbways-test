@@ -28,26 +28,22 @@ Contoh:
     - test adalah lokasi foldernya
     - file1 adalah filenya yang akan dicari kata 'error' di dalamnya, hasilnya menampilkan semua yang mengandung kata error
 
-5. -. Install kemudian buka/launch VirtualBox
-   -. Klik Machine -> New
-   -. Beri nama pada virtual machine dan pilih OS yang digunakan, misal type: linux, version: ubuntu (64-bit), Next
-   -. Pilih ukuran memory misal 3096 Mb, klik Next
-   -. Pada pilihan Hard disk pilih Create virtual hardisk now, Next
-   -. Berikutnya Pilih type Hard disk misal VDI (VirtualBox Disk Image), Next
-   -. Pilih Storage on physical hard disk misal dynamically allocated
-   -. File location and size pilih 10 Gb, Klik Create
-   -. Kemudian lakukan konfigurasi sesuai kebutuhan melalui Settings
-   -. Selanjutnya memasukkan live cd ubuntu-server yang telah di download
-   -. Klik settings -> Storage -> Controller IDE klik empty -> Klik icon virtual optic disk -> pilih lokasi tempat penyimpanan ubuntu-server
-   -. Klik start untuk memulai virtual machine
-   -. Selanjutnya installasi OS ubuntu pada virtual machine 
-   -. Lakukan proses install sesuai kebutuhan seperti masukkan nama, nama server, username, dan password.
-   -. Kemudian tunggu proses installasi selesai
-   -. Login ke server menggunakan username dan password dari proses install tadi
-   -. Selesai, virtual machine dapat digunakan.
+5. - Install kemudian buka/launch VirtualBox
+   - Klik Machine -> New
+   - Beri nama pada virtual machine dan pilih OS yang digunakan, misal type: linux, version: ubuntu (64-bit), Next
+   - Pilih ukuran memory misal 3096 Mb, klik Next
+   - Pada pilihan Hard disk pilih Create virtual hardisk now, Next
+   - Berikutnya Pilih type Hard disk misal VDI (VirtualBox Disk Image), Next
+   - Pilih Storage on physical hard disk misal dynamically allocated
+   - File location and size pilih 10 Gb, Klik Create
+   - Kemudian lakukan konfigurasi sesuai kebutuhan melalui Settings
+   - Selanjutnya memasukkan live cd ubuntu-server yang telah di download
+   - Klik settings -> Storage -> Controller IDE klik empty -> Klik icon virtual optic disk -> pilih lokasi tempat penyimpanan ubuntu-server
+   - Klik start untuk memulai virtual machine
+   - Selanjutnya installasi OS ubuntu pada virtual machine 
+   - Lakukan proses install sesuai kebutuhan seperti masukkan nama, nama server, username, dan password.
+   - Kemudian tunggu proses installasi selesai
+   - Login ke server menggunakan username dan password dari proses install tadi
+   - Selesai, virtual machine dapat digunakan.
    
-[![05-video]{
-width: 70%;
-border: none;
-background: none:
-}(http://img.youtube.com/vi/TW9N3elJ4ks/1.jpg)](http://www.youtube.com/watch?v=TW9N3elJ4ks)
+[![05-video](http://img.youtube.com/vi/TW9N3elJ4ks/3.jpg)](http://www.youtube.com/watch?v=TW9N3elJ4ks)
