@@ -36,7 +36,8 @@ Contoh:
   `error.data` 
     - 'error' adalah string atau kata yang akan dicari
     - test adalah lokasi foldernya
-    - file1 adalah filenya yang akan dicari kata 'error' di dalamnya, hasilnya menampilkan semua yang mengandung kata error
+    - file1 adalah file yang akan dicari kata 'error' di dalamnya
+    - hasilnya menampilkan semua yang mengandung kata 'error'
     
   <br  />
 
