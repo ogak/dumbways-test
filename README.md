@@ -12,7 +12,7 @@
 1. DevOps adalah budaya kolaborasi antara developer dan operation yang melahirkan serangkaian praktik yang mempercepat proses development dan operasi secara otomatis, kontinyu dan terintegrasi.
 ![01.jpg](images/01.jpg)
 
-2. CI/CD adalah metode delivery apps, dimana CI adalah dimana source code developer dilakukan build, unit test dan integrasi, CD adalah continuous delivery dan continuous deployment artinya code yang telah terintegrasi otomatis masuk ke repository dan deploy ke production environment
+2. CI/CD adalah metode delivery apps, dimana CI adalah dimana source code developer dilakukan build, unit test dan integrasi, CD adalah continuous delivery dan continuous deployment artinya code yang telah terintegrasi otomatis masuk ke repository dan deploy ke production environment.\
 ![02.jpg](images/02.jpg)
 
 3. blum dikerjakan
