@@ -47,5 +47,7 @@ Contoh:
    - Kemudian tunggu proses installasi selesai
    - Login ke server menggunakan username dan password dari proses install tadi
    - Selesai, virtual machine dapat digunakan.
+
+   Video rekaman bisa dilihat di folder _video-rekaman/05.mkv_
    
 ![05-video](images/05.jpg)(http://www.youtube.com/watch?v=TW9N3elJ4ks)
