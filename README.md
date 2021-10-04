@@ -27,6 +27,8 @@ Contoh:
     - 'error' adalah string atau kata yang akan dicari
     - test adalah lokasi foldernya
     - file1 adalah filenya yang akan dicari kata 'error' di dalamnya, hasilnya menampilkan semua yang mengandung kata error
+    
+  <br  />
 
 5. - Install kemudian buka/launch VirtualBox
    - Klik Machine -> New
@@ -46,4 +48,4 @@ Contoh:
    - Login ke server menggunakan username dan password dari proses install tadi
    - Selesai, virtual machine dapat digunakan.
    
-[![05-video](http://img.youtube.com/vi/TW9N3elJ4ks/3.jpg)](http://www.youtube.com/watch?v=TW9N3elJ4ks)
+![05-video](images/05.jpg)(http://www.youtube.com/watch?v=TW9N3elJ4ks)
