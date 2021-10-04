@@ -28,18 +28,26 @@ Contoh:
     - test adalah lokasi foldernya
     - file1 adalah filenya yang akan dicari kata 'error' di dalamnya, hasilnya menampilkan semua yang mengandung kata error
 
-5. 1. Install kemudian buka/launch VirtualBox
-   2. Klik Machine -> New
-   3. Beri nama pada virtual machine dan pilih OS yang digunakan, misal type: linux, version: ubuntu (64-bit), Next
-   4. Pilih ukuran memory misal 3096 Mb, klik Next
-   5. Pada pilihan Hard disk pilih Create virtual hardisk now, Next
-   6. Berikutnya Pilih type Hard disk misal VDI (VirtualBox Disk Image), Next
-   7. Pilih Storage on physical hard disk misal dynamically allocated
-   8. File location and size pilih 10 Gb, Klik Create
-   9. Kemudian lakukan konfigurasi sesuai kebutuhan melalui Settings
-   10. Selanjutnya memasukkan live cd ubuntu-server yang telah di download
-   11. Klik settings -> Storage -> Controller IDE klik empty -> Klik icon virtual optic disk -> pilih lokasi tempat penyimpanan ubuntu-server
-   12. Klik start untuk memulai virtual machine
-   13. Proses selanjutnya installasi OS ubuntu pada virtual machine.
+5. -. Install kemudian buka/launch VirtualBox
+   -. Klik Machine -> New
+   -. Beri nama pada virtual machine dan pilih OS yang digunakan, misal type: linux, version: ubuntu (64-bit), Next
+   -. Pilih ukuran memory misal 3096 Mb, klik Next
+   -. Pada pilihan Hard disk pilih Create virtual hardisk now, Next
+   -. Berikutnya Pilih type Hard disk misal VDI (VirtualBox Disk Image), Next
+   -. Pilih Storage on physical hard disk misal dynamically allocated
+   -. File location and size pilih 10 Gb, Klik Create
+   -. Kemudian lakukan konfigurasi sesuai kebutuhan melalui Settings
+   -. Selanjutnya memasukkan live cd ubuntu-server yang telah di download
+   -. Klik settings -> Storage -> Controller IDE klik empty -> Klik icon virtual optic disk -> pilih lokasi tempat penyimpanan ubuntu-server
+   -. Klik start untuk memulai virtual machine
+   -. Selanjutnya installasi OS ubuntu pada virtual machine 
+   -. Lakukan proses install sesuai kebutuhan seperti masukkan nama, nama server, username, dan password.
+   -. Kemudian tunggu proses installasi selesai
+   -. Login ke server menggunakan username dan password dari proses install tadi
+   -. Selesai, virtual machine dapat digunakan.
    
-[![05-video](http://img.youtube.com/vi/TW9N3elJ4ks/1.jpg)](http://www.youtube.com/watch?v=TW9N3elJ4ks)
+[![05-video]{
+width: 70%;
+border: none;
+background: none:
+}(http://img.youtube.com/vi/TW9N3elJ4ks/1.jpg)](http://www.youtube.com/watch?v=TW9N3elJ4ks)
